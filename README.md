@@ -1,4 +1,4 @@
-# Polynomial solver
+# BackToSchool
 
 ## What is it ?
 
